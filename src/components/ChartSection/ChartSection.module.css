@@ -1,0 +1,40 @@
+.container {
+  box-sizing: border-box;
+  width: 80%;
+  height: 300px;
+  display: flex;
+  margin: 30px 40px;
+  padding: 20px 20px 0 20px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: var(--dark);
+}
+
+.barContainer {
+  box-sizing: border-box;
+  width: 100%;
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex: 1;
+}
+
+.title {
+  width: 100px;
+  text-align: center;
+  color: white;
+  margin-right: 20px;
+  font-weight: bolder;
+}
+
+.bar {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: var(--primary);
+  height: 100%;
+  width: 0%;
+  transition: ease-in 0.5s width;
+}

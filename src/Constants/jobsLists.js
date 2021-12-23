@@ -1,0 +1,45 @@
+export const utica = [
+  "Responsible for development and maintenance of multiple client web applications in multiple languages",
+  "Architected and Developed API interactions thorugh a .NET MVC Server application",
+  "Orchestrated interactions with SQL Server using stored procedures",
+  "Utilized CI/CD workflow with Azure Dev Ops",
+  "Built a knowledge base for EpiServer as a business CMS",
+  "Served full capacity in development of test cycles and sprint planning",
+  "Strong written and verbal communication with Product Owners and Stakeholders",
+  "Managment of multiple projects within GIT repositories",
+  "Worked across business units with customers on deliverables",
+  "Worked on integrations with multiple business resources such as MuleSoft, DuckCreek, and OnBase",
+];
+
+export const geo = [
+  "Project Management for all software related initiatives for Electro-Mechanical Engineering",
+  "Planning and development of software initiatives for wireline operator tools",
+  "Complete UI for a voltage and current delivery system for well perforations",
+  "Custom operating system built in Java (File System, USB handling, Software Updater)",
+  "UI implementation with JavaFX and declarative UI strategies",
+  "Service oriented OOP with a MVC design structure",
+  "Embedded programming on Raspberry Pi and Linux based system",
+  "Utilization of hardware technologies such as serial, i2c, and Analog to Digital interfaces",
+  "Developed custom web application with full REST API communication",
+  "Developed cross-platform mobile application with full REST API communication",
+  "Developed API server with MySQL and Email services",
+  "Responsible for setup, maintenance, and operation of local GitLab Server",
+  "Collaboration with Stakeholders on future product line development related to software",
+  "Sole developer responsible for all Product Owner duties, Development, and Testing",
+  "Utilize Maven for dependencies and build procedures",
+];
+
+export const inspirus = [
+  "Development and Maintenance of proprietary web application, front end and back end",
+  "Active development of Java server side application including REST API development",
+  "Responsible for writing scripts and database interaction for data management in MySQL",
+  "Served full capacity in development cycles and sprint planning",
+  "Maintenance of Git code repository",
+  "Interaction with automated build tools such as Jenkins and Amazon Web Services",
+  "Responsible for test analysis of various technologies and creation of test case documentation",
+  "Assisted in software testing efforts during major software releases",
+  "Data and Requirement Documentation analysis",
+  "Troubleshooting and Production Support for all in-house technology products",
+  "Served full capacity in development of test cycles and sprint planning",
+  "Strong written and verbal communication with Product Owners and Stakeholders",
+];

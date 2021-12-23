@@ -1,0 +1,17 @@
+.container {
+  width: 100%;
+  height: 400px;
+  background-color: var(--darkGrey);
+  clip-path: polygon(0 0, 100% 0, 100% 78%, 0% 100%);
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  box-sizing: border-box;
+  padding: 0 50px;
+}
+
+.heroText {
+  width: 500px;
+  line-height: 2;
+  margin: 0 50px;
+}

@@ -1,0 +1,33 @@
+.container {
+  display: relative;
+  width: 100%;
+  height: 400px;
+  background-color: var(--darkGrey);
+  clip-path: polygon(0 0, 100% 10%, 100% 95%, 0% 100%);
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  box-sizing: border-box;
+  padding: 50px;
+}
+
+.fullstackTextContainer {
+  width: 600px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.fullstackText {
+  line-height: 2;
+  margin: 50px 0;
+}
+
+.primaryColor {
+  fill: var(--primary);
+}
+
+.contrast {
+  fill: var(--contrastText);
+}

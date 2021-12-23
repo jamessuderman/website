@@ -1,0 +1,11 @@
+.container {
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 50px 20px;
+  width: 100%;
+  background-color: var(--darkGrey);
+  clip-path: polygon(0 0, 100% 2%, 100% 100%, 0 100%);
+}
